@@ -39,7 +39,7 @@ const textNodes = [
         options: [
             {
                 text: 'Take the goo',
-                setstate: {blueGoo: true }
+                setstate: {blueGoo: true },
                 nextText: 2
             },
             {
